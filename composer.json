@@ -1,6 +1,6 @@
 {
 	 "name": "abdullah/micromvc",
-    "description": "A short description of what your package does",
+    "description": "micro mvc",
     "require": {
         "php": ">=8.2",
         "another-vendor/package": "1.*"
