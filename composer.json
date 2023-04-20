@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+		  "phpmvc\\":"app"	
+		}
+	},
+	"require": {
+		"rakit/validation": "^0.22.3",
+		"wixel/gump": "^1.6"
+	}
+}
