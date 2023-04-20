@@ -1,5 +1,5 @@
 {
-	 "name": "abdullahShaabanMVC/micromvc",
+	 "name": "abdullah-shaaban-mvc/micromvc",
     "description": "micro mvc",
     "require": {
         "php": ">=8.2",
