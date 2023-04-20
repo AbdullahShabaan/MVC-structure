@@ -18,7 +18,7 @@ $o1-> dispatch () ;
 //$o3 = new front3 () ;
 //$o4 = new \phpmvc\db\conn () ;
 
-
+echo "init.php" ;
 
 
 ?>
